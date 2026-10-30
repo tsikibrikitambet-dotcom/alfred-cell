@@ -213,7 +213,7 @@ class MainActivity : Activity() {
         })
         page.addView(section("ABOUT ALFRED CELL"))
         page.addView(label(
-            "Offline GPS and cellular signal monitor. GPS coordinates and UTC fix time are read from the phone; cell data depends on device and carrier support.",
+            "Offline GPS and cellular signal monitor. Alfred is my cat. GPS coordinates and UTC fix time come from the phone; cell data depends on device and carrier support.",
             11,
             0xffcc9292.toInt(),
             false
