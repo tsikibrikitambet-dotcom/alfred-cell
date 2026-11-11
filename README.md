@@ -9,6 +9,12 @@ on the Android device and mobile carrier.
 The app has no Internet permission and makes no network requests. GPS works
 without mobile data; the first satellite fix can take longer indoors.
 
+## Screenshot
+
+Alfred Cell running in an Android 15 emulator with simulated LTE and GPS data:
+
+![Alfred Cell running on Android 15 emulator](./screenshots/alfred-cell-emulator.png)
+
 ## Install on an Android phone
 
 1. Download [alfred-cell.apk from the v1.12 release](https://github.com/tsikibrikitambet-dotcom/alfred-cell/releases/tag/v1.12)
